@@ -34,14 +34,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shashankmc/vue-legal-provision-retriever.git"
+    "url": "git+https://github.com/MaastrichtU-BISS/vue-legal-provision-retriever.git"
   },
-  "homepage": "https://github.com/shashankmc/vue-legal-provision-retriever#readme",
+  "homepage": "https://github.com/MaastrichtU-BISS/vue-legal-provision-retriever#readme",
   "bugs": {
-    "url": "https://github.com/shashankmc/vue-legal-provision-retriever/issues"
+    "url": "https://github.com/MaastrichtU-BISS/vue-legal-provision-retriever/issues"
   },
   "dependencies": {
-    "legal-provision-types": "git+https://github.com/shashankmc/legal-provision-types.git#1388a4c",
+    "legal-provision-types": "git+https://github.com/MaastrichtU-BISS/provision-types.git#1388a4c",
     "lucide-vue-next": "^1.0.0"
   },
   "peerDependencies": {
